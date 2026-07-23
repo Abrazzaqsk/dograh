@@ -1,8 +1,6 @@
 __pycache__
 .DS_Store
-.env
 .env.prod
-.env.test
 
 # Conductor personal/per-machine overrides (settings.toml IS committed)
 .conductor/settings.local.toml
@@ -27,3 +25,4 @@ node_modules/
 .superpowers/
 docs/superpowers/
 .gstack/
+config.bat
